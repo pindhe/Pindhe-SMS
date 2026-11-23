@@ -94,14 +94,7 @@ Server will run on `http://localhost:5001`
 ```bash
 cd client
 
-## 🔐 Demo Credentials
 
-| Role | Email | Password |
-|------|-------|----------|
-| Super Admin | admin@pindhe-sms.com | admin123 |
-| Teacher | teacher@pindhe-sms.com | teacher123 |
-| Parent | parent@pindhe-sms.com | parent123 |
-| Student | student@pindhe-sms.com | student123 |
 
 ## 📊 API Endpoints
 
