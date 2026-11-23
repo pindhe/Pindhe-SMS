@@ -1,5 +1,8 @@
 # Pindhe SMS - School Management System
 
+<p align="center">
+  <img src="photo.png" width="900"/>
+</p>
 A complete, modern, responsive, and professional School Management System built with React.js (Vite), Tailwind CSS, Node.js, Express.js, and MongoDB.
 
 ## 🚀 Features
